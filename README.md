@@ -9,7 +9,7 @@ A simple and interactive web app to help you track and manage your bucket list i
 ✅ Add new bucket list items  
 ✅ Edit existing items  
 ✅ Mark items as completed  
-✅ Delete items you no longer need  
+✅ Delete items you no longer needed  
 ✅ Clean and user-friendly interface
 
 ---
